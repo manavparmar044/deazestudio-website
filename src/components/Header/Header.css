@@ -1,0 +1,27 @@
+.h-wrapper{
+    color: white;
+    /* background-color: var(--black); */
+}
+
+.h-wrapper a{
+    z-index: 100;
+}
+
+.h-container{
+    
+    justify-content: space-between !important;
+    padding-top: 1rem;
+    padding-bottom: 1rem; 
+}
+
+.h-container>img{
+    z-index: 2;
+}
+
+.h-menu{
+    gap: 2rem;
+}
+
+.h-menu>a:hover{
+    color: var(--blue4);
+}

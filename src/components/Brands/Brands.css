@@ -1,0 +1,17 @@
+.br-title{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--blue1);
+}
+
+.b-container{
+    z-index: 9;
+    flex-wrap: wrap;
+    align-content: space-between;
+    gap: 20rem;
+    justify-content: space-between!important;
+}
+
+.b-container>img{
+    width: 4rem;
+}
