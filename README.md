@@ -1,8 +1,21 @@
-# React + Vite
+# Deaze Studio 🎨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Deaze Studio landing page repository! This project is a beautifully crafted single-page website for showcasing the creative services offered by Deaze Studio.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Single Page Design:** All content is accessible from a single, scrollable page, providing a seamless user experience.
+  
+- **Modern UI:** The design is minimalistic, modern, and focused on delivering key information clearly and effectively.
+  
+- **Smooth Scrolling:** Enhanced user interaction with smooth scrolling animations and transitions.
+
+## Getting Started
+
+To set up the project locally, follow these steps:
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/deazestudio-website.git
+cd deazestudio-website
